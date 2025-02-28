@@ -2,6 +2,7 @@
 Real-Time Weather Alert System
 -----------------------------------------------------------------
 Overview
+
 This project is a Real-Time Weather Alert System built with Node.js, Express, and MongoDB. It fetches real-time weather data, processes alerts based on predefined conditions, and stores historical data in a database.
 -----------------------------------------------------------------------------------------------
 Features
